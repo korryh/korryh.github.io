@@ -1,0 +1,12 @@
+body {
+  background-color: #3d525c;
+  margin: 0;
+  font-family: Arial, san-sans-serif;
+}
+.top {
+  text-align: left;
+  height: 2vh
+}
+.col {
+  text-align: center;
+}
